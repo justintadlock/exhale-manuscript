@@ -2,7 +2,7 @@
 
 Manuscript is a child theme for the [Exhale WordPress theme](https://themehybrid.com/themes/exhale) primarily designed for aspiring novelists who are looking to sell their first manuscript.
 
-Manuscript is a commercial theme.  It is in a public repository on GitHub so that other developers can learn from it and contribute code.  If using the theme in any way, please make a purchase from the official [Manuscript Theme Page](https://themehybrid.com/themes/exhale-manuscript).
+Manuscript is a commercial theme.  It is in a public repository on GitHub so that other developers can learn from it and contribute code.  If using the theme in any way, please make a purchase from the official [Manuscript Theme Page](https://themehybrid.com/themes/manuscript).
 
 ## Requirements
 
